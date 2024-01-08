@@ -1,4 +1,4 @@
-### Hi
+### Hi,
  🔭 I’m currently working on updating and organizing this github, public repositories will be available by end of the week (14th Jan)
  🌱 I’m currently a student learning C & C++ 😄 
 <!--
