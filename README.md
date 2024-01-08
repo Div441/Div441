@@ -1,6 +1,7 @@
 ### Hi,
  🔭 I’m currently working on updating and organizing this github, public repositories will be available by end of the week (14th Jan) <br>
- 🌱 I’m currently a student learning C & C++ 😄 
+ 
+- 🌱 I’m currently a student learning C & C++ 😄 
 <!--
 **Div441/Div441** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
