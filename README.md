@@ -1,7 +1,16 @@
 ### Hi,
- 🔭 I’m currently working on updating and organizing this github, public repositories will be available by end of the week (14th Jan) <br>
+ 🔭 I’m currently a student at 42 SG.
  
-- 🌱 I’m currently a student learning C & C++ 😄 
+🌱 Current projects:
+- Fractal: A computer graphics project that generates fractals.
+- Pushswap: A program to sort numbers given specific instructions.
+
+🌱 Completed projects:
+- Pipex: A program to recreate the pipe function in C.
+- Ft_Printf: A function that replicates the behaviour of the original printf function in C.
+- Get_next_line: A function that reads content line by line from a file.
+- Born2beroot: Created a VM using virtualbox.
+- Libft: Created a library that replicated various functions in C for future projects.
 <!--
 **Div441/Div441** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
