@@ -1,5 +1,5 @@
 ### Hi,
- 🔭 I’m currently a student at 42 SG.
+ 🔭 I'm currently a student working on some projects.
  
 🌱 Current projects:
 - Fractal: A computer graphics project that generates fractals.
