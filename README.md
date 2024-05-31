@@ -1,4 +1,4 @@
-### Hi,
+### 
  
 🌱 Current projects:
 - Minishell
