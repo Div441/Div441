@@ -1,11 +1,12 @@
 ### Hi,
- 🔭 I'm currently a student working on some projects.
  
 🌱 Current projects:
-- Fractal: A computer graphics project that generates fractals.
-- Pushswap: A program to sort numbers given specific instructions.
+- Minishell
+- Philosophers
 
 🌱 Completed projects:
+- Fractal: A computer graphics project that generates fractals.
+- Pushswap: A program to sort numbers given specific instructions.
 - Pipex: A program to recreate the pipe function in C.
 - Ft_Printf: A function that replicates the behaviour of the original printf function in C.
 - Get_next_line: A function that reads content line by line from a file.
